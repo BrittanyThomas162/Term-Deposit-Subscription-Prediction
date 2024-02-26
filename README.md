@@ -1,4 +1,4 @@
-# Binary Classification for Term Deposit Subscription Prediction
+# Term Deposit Subscription Prediction
 
 ## Overview:
 
@@ -33,7 +33,7 @@ Split the dataset into training and testing sets using train_test_split for mode
 
 **4. Model Development**:
 
-Implement various machine learning algorithms suitable for *binary classification* tasks, such as:
+Implement various machine learning algorithms suitable for **binary classification** tasks, such as:
 
 - Logistic Regression
 - Support Vector Machine (SVM)
